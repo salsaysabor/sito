@@ -18,9 +18,9 @@ export default siteConfig({
   description: 'Scuola di Ballo Salsa Y Sabor',
 
   // social usernames (optional)
-  //twitter: 'transitive_bs',
-  //github: 'transitive-bullshit',
-  //linkedin: 'fisch2',
+  // twitter: 'transitive_bs',
+  // github: 'transitive-bullshit',
+  // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
